@@ -101,6 +101,14 @@ img {
   text-align: center;
 }
 
+.quote::before {
+  content: '" ';
+}
+
+.quote::after {
+  content: ' "';
+}
+
 .author {
   font-size: 2rem;
   font-family: Raleway, sans-serif;
