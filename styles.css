@@ -101,6 +101,10 @@ img {
   text-align: center;
 }
 
+.lists {
+  list-style-type: none;
+}
+
 .quote {
   font-family: Raleway, sans-serif;
   color: #00beef;
