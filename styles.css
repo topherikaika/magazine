@@ -48,6 +48,11 @@ main {
 
 }
 
+.first-paragraph::first-letter {
+  font-size: 6rem;
+  color: orangered;
+}
+
 .text {
   grid-column: 2 / 3;
   font-size: 1.8rem;
