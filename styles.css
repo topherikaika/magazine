@@ -94,6 +94,12 @@ img {
   text-align: center;
 }
 
+.quote {
+  color: #00beef;
+  font-size: 2.4rem;
+  text-align: center;
+}
+
 .author {
   font-size: 2rem;
   font-family: Raleway, sans-serif;
