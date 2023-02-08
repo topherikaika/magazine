@@ -106,6 +106,10 @@ img {
   margin-top: 2rem;
 }
 
+.lists li {
+  margin-bottom: 1.5rem;
+}
+
 .quote {
   font-family: Raleway, sans-serif;
   color: #00beef;
